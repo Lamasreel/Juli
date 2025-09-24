@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/juli/static/css/main.b57db856.css",
+    "main.js": "/juli/static/js/main.7cf4d41d.js",
+    "static/js/453.1fa10f9b.chunk.js": "/juli/static/js/453.1fa10f9b.chunk.js",
+    "index.html": "/juli/index.html",
+    "main.b57db856.css.map": "/juli/static/css/main.b57db856.css.map",
+    "main.7cf4d41d.js.map": "/juli/static/js/main.7cf4d41d.js.map",
+    "453.1fa10f9b.chunk.js.map": "/juli/static/js/453.1fa10f9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57db856.css",
+    "static/js/main.7cf4d41d.js"
+  ]
+}
